@@ -1,0 +1,20 @@
+body{
+    width: 0;
+    height: 0;
+}
+.box1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.btn{
+    padding: 10px;
+    margin-top: 10px;
+    color: black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+.blue{
+    background-color: blue;
+}
